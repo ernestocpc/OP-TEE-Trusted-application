@@ -14,8 +14,9 @@ This repository contains the source code and documentation for a **Trusted Appli
 ---
 
 ## Repository Structure
-- **`host/`**: Source code for the Normal World client application.
-- **`ta/`**: Source code for the Trusted Application running in the Secure World.
+- **`eai_integration`**: Contains all the source code for the TA
+   - **`host/`**: Source code for the Normal World client application.
+   - **`ta/`**: Source code for the Trusted Application running in the Secure World.
 
 ---
 
